@@ -1,0 +1,13 @@
+source_name,domain,content_type,license,robots_txt_allowed,contact_email,notes
+Y Combinator Blog,blog.ycombinator.com,accelerator_blog,CC-BY,Y,legal@ycombinator.com,"Public essays & news"
+Andreessen Horowitz Blog,a16z.com,vc_blog,CC-BY,Y,legal@a16z.com,"Articles & podcasts"
+Paul Graham Essays,paulgraham.com,essays,CC-BY,Y,,"All essays CC-BY"
+Techstars Blog,techstars.com/blog,accelerator_blog,unknown,Y,legal@techstars.com,"License not publicly stated"
+First Round Review,review.firstround.com,vc_blog,CC-BY-SA,Y,contact@firstround.com,
+500 Startups Blog,500.co/blog,accelerator_blog,unknown,Y,info@500.co,
+Sequoia Library,sequoiacap.com/library,vc_resources,unknown,Y,info@sequoiacap.com,
+MIT Launch Course,launchpad.mit.edu/course,open_course,CC-BY,Y,,"MIT OpenCourseWare materials"
+SpeakerDeck,speakerdeck.com,slide_decks,proprietary,Y,support@speakerdeck.com,
+SlideShare,slideshare.net,slide_decks,CC-BY,Y,support@slideshare.net,
+Rocket Internet Guides,rocket-internet.com,studio_guides,proprietary,unknown,contact@rocket-internet.com,
+Greylock Blog,greylock.com/blog,vc_blog,unknown,Y,contact@greylock.com,
